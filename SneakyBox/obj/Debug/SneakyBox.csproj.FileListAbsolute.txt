@@ -1,0 +1,7 @@
+C:\Users\Tomas\source\repos\SneakyBox\SneakyBox\bin\Debug\SneakyBox.exe.config
+C:\Users\Tomas\source\repos\SneakyBox\SneakyBox\bin\Debug\SneakyBox.exe
+C:\Users\Tomas\source\repos\SneakyBox\SneakyBox\bin\Debug\SneakyBox.pdb
+C:\Users\Tomas\source\repos\SneakyBox\SneakyBox\obj\Debug\SneakyBox.csprojResolveAssemblyReference.cache
+C:\Users\Tomas\source\repos\SneakyBox\SneakyBox\obj\Debug\SneakyBox.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\source\repos\SneakyBox\SneakyBox\obj\Debug\SneakyBox.exe
+C:\Users\Tomas\source\repos\SneakyBox\SneakyBox\obj\Debug\SneakyBox.pdb
